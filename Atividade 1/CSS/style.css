@@ -1,0 +1,34 @@
+img{
+    margin: 5px;
+    padding: 10px;
+}
+
+.golden{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.collie{
+    border: 4px;
+    border-color: gray;
+    border-style: dotted;
+}
+
+.vira-lata{
+    border: 6px;
+    border-color: red;
+    border-style: dashed;
+}
+
+.pug{
+    border: 8px;
+    border-color: cyan;
+    border-style: groove;
+}
+
+.bulldog{
+    border: 10px;
+    border-color: blueviolet;
+    border-style: double;
+}
